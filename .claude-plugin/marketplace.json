@@ -1,0 +1,15 @@
+{
+  "name": "network-sync",
+  "description": "Network Sync, by Philip Mueller",
+  "owner": {
+    "name": "Philip Mueller",
+    "url": "https://github.com/phillippmueller"
+  },
+  "plugins": [
+    {
+      "name": "network-sync",
+      "source": "./plugins/network-sync",
+      "description": "A personal CRM in Notion that keeps itself up to date from your Signal, WhatsApp, email, LinkedIn and calendar, and tells you whom to reach out to next and about what."
+    }
+  ]
+}

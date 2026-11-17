@@ -1,0 +1,14 @@
+{
+  "name": "network-sync",
+  "displayName": "Network Sync",
+  "version": "0.1.0",
+  "description": "A personal CRM in Notion that keeps itself up to date. Logs who you talked to on Signal, WhatsApp, email, LinkedIn, calendar meetings and Notion meeting notes, keeps short summaries, open loops and next topics per person, and sends a daily digest of whom to reach out to and an opener. Summaries only: message text is never copied into Notion.",
+  "author": {
+    "name": "Philip Mueller",
+    "url": "https://github.com/phillippmueller"
+  },
+  "homepage": "https://github.com/phillippmueller/network-sync",
+  "repository": "https://github.com/phillippmueller/network-sync",
+  "license": "MIT",
+  "keywords": ["crm", "personal-crm", "network", "notion", "signal", "whatsapp", "gmail", "relationships", "digest"]
+}
